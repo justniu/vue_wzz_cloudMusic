@@ -1,4 +1,3 @@
-# vue_wzz_cloudMusic
 
 **本人马上是在读大四学生! 所以可能项目经验没那么足,希望有漏洞差错,望谅解!!**
 
@@ -8,7 +7,7 @@
 
 **肝代码不易, 最后希望帮忙点个star支持一哈!!**
 
-==更多预览详情请看B站,预览效果视频会上传B站==
+**更多预览详情请看B站,预览效果视频会上传B站**
 
 
 
@@ -16,13 +15,10 @@
 
 
 
-## ![image-20200826170450161](./preview/image-20200826170450161.png)
-
-![image-20200826170450161](.\preview\image-20200826170450161.png)
+## ![image-20200826170450161](https://raw.githubusercontent.com/wzz1206414629/vue_wzz_cloudMusic/master/preview/image-20200826170450161.png)
 
 ## 歌单
-
-![image-20200826170524522](.\preview\image-20200826170524522.png)
+![image-20200826170524522](https://github.com/wzz1206414629/vue_wzz_cloudMusic/blob/master/preview/image-20200826170524522.png)
 
 
 
