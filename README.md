@@ -9,9 +9,9 @@
 **项目采用vue脚手架+ElementUI构建**
 
 **更多预览详情请看B站,预览效果视频会上传B站**
-**B站详细预览视频: https://www.bilibili.com/video/BV1NC4y1b7eL
-码云地址: https://gitee.com/wzhouzhou/vue_wzz_cloudMusic
-后端接口地址: https://binaryify.github.io/NeteaseCloudMusicApi/#/?id=neteasecloudmusicapi**
+**B站详细预览视频: https://www.bilibili.com/video/BV1NC4y1b7eL**
+**码云地址: https://gitee.com/wzhouzhou/vue_wzz_cloudMusic**
+**引用的后端接口地址: https://binaryify.github.io/NeteaseCloudMusicApi/#/?id=neteasecloudmusicapi**
 
 # **话不多说,上预览**
 
