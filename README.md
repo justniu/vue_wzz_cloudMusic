@@ -15,7 +15,7 @@
 
 
 
-## ![image-20200826170450161](https://raw.githubusercontent.com/wzz1206414629/vue_wzz_cloudMusic/master/preview/image-20200826170450161.png)
+## ![image-20200826170450161](https://github.com/wzz1206414629/vue_wzz_cloudMusic/blob/master/preview/image-20200826170450161.png)
 
 ## 歌单
 ![image-20200826170524522](https://github.com/wzz1206414629/vue_wzz_cloudMusic/blob/master/preview/image-20200826170524522.png)
@@ -24,53 +24,53 @@
 
 ## 排行榜
 
-![image-20200826170647003](.\preview\image-20200826170647003.png)
+![image-20200826170647003](https://github.com/wzz1206414629/vue_wzz_cloudMusic/blob/master/preview/image-20200826170647003.png)
 
 
 
-![image-20200826170657953](.\preview\image-20200826170657953.png)
+![image-20200826170657953](https://github.com/wzz1206414629/vue_wzz_cloudMusic/blob/master/preview/image-20200826170657953.png)
 
 ## 歌手
 
-![image-20200826170727875](.\preview\image-20200826170727875.png)
+![image-20200826170727875](https://github.com/wzz1206414629/vue_wzz_cloudMusic/blob/master/preview/image-20200826170727875.png)
 
 ## 最新音乐
 
-![image-20200826170757270](.\preview\image-20200826170757270.png)
+![image-20200826170757270](https://github.com/wzz1206414629/vue_wzz_cloudMusic/blob/master/preview/image-20200826170757270.png)
 
 
 
-![image-20200826170821513](.\preview\image-20200826170821513.png)
+![image-20200826170821513](https://github.com/wzz1206414629/vue_wzz_cloudMusic/blob/master/preview/image-20200826170821513.png)
 
 
 
-![image-20200826170843926](.\preview\image-20200826170843926.png)
+![image-20200826170843926](https://github.com/wzz1206414629/vue_wzz_cloudMusic/blob/master/preview/image-20200826170843926.png)
 
 ## 音乐云盘
 
-![image-20200826170913080](.\preview\image-20200826170913080.png)
+![image-20200826170913080](https://github.com/wzz1206414629/vue_wzz_cloudMusic/blob/master/preview/image-20200826170913080.png)
 
 ## 歌单详情页
 
-![image-20200826170941457](.\preview\image-20200826170941457.png)
+![image-20200826170941457](https://github.com/wzz1206414629/vue_wzz_cloudMusic/blob/master/preview/image-20200826170941457.png)
 
 
 
-![image-20200826171000559](.\preview\image-20200826171000559.png)
+![image-20200826171000559](https://github.com/wzz1206414629/vue_wzz_cloudMusic/blob/master/preview/image-20200826171000559.png)
 
 ## 播放页
 
-![image-20200826171029007](.\preview\image-20200826171029007.png)
+![image-20200826171029007](https://github.com/wzz1206414629/vue_wzz_cloudMusic/blob/master/preview/image-20200826171029007.png)
 
 ## 搜索页
 
-![image-20200826171046510](.\preview\image-20200826171046510.png)
+![image-20200826171046510](https://github.com/wzz1206414629/vue_wzz_cloudMusic/blob/master/preview/image-20200826171046510.png)
 
-![image-20200826171104147](.\preview\image-20200826171104147.png)
+![image-20200826171104147](https://github.com/wzz1206414629/vue_wzz_cloudMusic/blob/master/preview/image-20200826171104147.png)
 
-![image-20200826171114246](.\preview\image-20200826171114246.png)
+![image-20200826171114246](https://github.com/wzz1206414629/vue_wzz_cloudMusic/blob/master/preview/image-20200826171114246.png)
 
-![image-20200826171124229](.\preview\image-20200826171124229.png)
+![image-20200826171124229](https://github.com/wzz1206414629/vue_wzz_cloudMusic/blob/master/preview/image-20200826171124229.png)
 
 ```
 npm install
